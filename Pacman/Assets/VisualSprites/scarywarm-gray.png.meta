@@ -1,43 +1,43 @@
 fileFormatVersion: 2
-guid: d3a9fee0a99159b4d8fad0ad07888849
+guid: 20c4865c75702db41a9d4e993b107de3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1372335161102834277
-    second: Dragon_0
+      213: 3930928756063135942
+    second: scarywarm-gray_0
   - first:
-      213: 7236858470366593164
-    second: Dragon_1
+      213: 4686777859320888473
+    second: scarywarm-gray_1
   - first:
-      213: 5967068118830826598
-    second: Dragon_2
+      213: 7946436091421796211
+    second: scarywarm-gray_2
   - first:
-      213: -6818290705752391711
-    second: Dragon_3
+      213: -3135446235393110791
+    second: scarywarm-gray_3
   - first:
-      213: -5048749159071775346
-    second: Dragon_4
+      213: 5458277905628900554
+    second: scarywarm-gray_4
   - first:
-      213: 8500815652691911736
-    second: Dragon_5
+      213: 5798672224816794469
+    second: scarywarm-gray_5
   - first:
-      213: -1560842793315140573
-    second: Dragon_6
+      213: -4478512328941860426
+    second: scarywarm-gray_6
   - first:
-      213: -1634599686845655008
-    second: Dragon_7
+      213: 8340723286476060872
+    second: scarywarm-gray_7
   - first:
-      213: -8168794291777539684
-    second: Dragon_8
+      213: 8010370148713181410
+    second: scarywarm-gray_8
   - first:
-      213: 8620194370997545834
-    second: Dragon_9
+      213: -6608902266650072476
+    second: scarywarm-gray_9
   - first:
-      213: 4140781707024328920
-    second: Dragon_10
+      213: 8713153305225926142
+    second: scarywarm-gray_10
   - first:
-      213: 4894490066905254596
-    second: Dragon_11
+      213: 3997163151434166930
+    second: scarywarm-gray_11
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -82,7 +82,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 128
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -139,34 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dragon_0
+      name: scarywarm-gray_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 388
-        width: 120
-        height: 120
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 56a105ede838b0310800000000000000
-      internalID: 1372335161102834277
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dragon_1
-      rect:
-        serializedVersion: 2
-        x: 132
+        x: 0
         y: 384
-        width: 120
-        height: 124
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,20 +153,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c804affaf6c7e6460800000000000000
-      internalID: 7236858470366593164
+      spriteID: 6c8e28e60e67d8630800000000000000
+      internalID: 3930928756063135942
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon_2
+      name: scarywarm-gray_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cbcf5a1a7ca0140800000000000000
+      internalID: 4686777859320888473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scarywarm-gray_2
       rect:
         serializedVersion: 2
         x: 256
-        y: 388
-        width: 124
-        height: 120
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,20 +195,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6644875d6d84fc250800000000000000
-      internalID: 5967068118830826598
+      spriteID: 3772a8be589674e60800000000000000
+      internalID: 7946436091421796211
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon_3
+      name: scarywarm-gray_3
       rect:
         serializedVersion: 2
-        x: 4
-        y: 260
-        width: 120
-        height: 120
+        x: 0
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,20 +216,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1eff74c5ab09061a0800000000000000
-      internalID: -6818290705752391711
+      spriteID: 9fcce0fd248ac74d0800000000000000
+      internalID: -3135446235393110791
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon_4
+      name: scarywarm-gray_4
       rect:
         serializedVersion: 2
-        x: 132
-        y: 257
-        width: 124
-        height: 123
+        x: 128
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,20 +237,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e858975a36d3fe9b0800000000000000
-      internalID: -5048749159071775346
+      spriteID: accaf5206d2bfbb40800000000000000
+      internalID: 5458277905628900554
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon_5
+      name: scarywarm-gray_5
       rect:
         serializedVersion: 2
-        x: 260
-        y: 260
-        width: 124
-        height: 120
+        x: 256
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,20 +258,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83428cffbc6f8f570800000000000000
-      internalID: 8500815652691911736
+      spriteID: 56b01217aa5097050800000000000000
+      internalID: 5798672224816794469
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon_6
+      name: scarywarm-gray_6
       rect:
         serializedVersion: 2
-        x: 4
-        y: 132
-        width: 104
-        height: 124
+        x: 0
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,20 +279,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32cf83acfb5c65ae0800000000000000
-      internalID: -1560842793315140573
+      spriteID: 6b98637d3c029d1c0800000000000000
+      internalID: -4478512328941860426
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon_7
+      name: scarywarm-gray_7
       rect:
         serializedVersion: 2
-        x: 268
-        y: 132
-        width: 112
-        height: 124
+        x: 128
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,20 +300,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 028999bce3cb059e0800000000000000
-      internalID: -1634599686845655008
+      spriteID: 8c8fb3453a330c370800000000000000
+      internalID: 8340723286476060872
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon_8
+      name: scarywarm-gray_8
       rect:
         serializedVersion: 2
-        x: 4
-        y: 4
-        width: 104
-        height: 124
+        x: 256
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,20 +321,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c917c5b2fdc92ae80800000000000000
-      internalID: -8168794291777539684
+      spriteID: 2e03171a53d8a2f60800000000000000
+      internalID: 8010370148713181410
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon_9
+      name: scarywarm-gray_9
       rect:
         serializedVersion: 2
-        x: 148
-        y: 4
-        width: 88
-        height: 124
+        x: 0
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -342,20 +342,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6b6122db1511a770800000000000000
-      internalID: 8620194370997545834
+      spriteID: 46a6c0967667844a0800000000000000
+      internalID: -6608902266650072476
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon_10
+      name: scarywarm-gray_10
       rect:
         serializedVersion: 2
-        x: 276
-        y: 4
-        width: 104
-        height: 124
+        x: 128
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -363,20 +363,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d8ee931603077930800000000000000
-      internalID: 4140781707024328920
+      spriteID: ef5138f44c65be870800000000000000
+      internalID: 8713153305225926142
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon_11
+      name: scarywarm-gray_11
       rect:
         serializedVersion: 2
-        x: 148
-        y: 131
-        width: 88
-        height: 126
+        x: 256
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,8 +384,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4cac092a8c8bce340800000000000000
-      internalID: 4894490066905254596
+      spriteID: 292b38655b6c87730800000000000000
+      internalID: 3997163151434166930
       vertices: []
       indices: 
       edges: []
