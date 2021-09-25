@@ -4,30 +4,22 @@ using UnityEngine;
 
 public class dragonMove : MonoBehaviour
 {
-    float move = 0.01f;
-
+    float speed = 1;
+    
     // Start is called before the first frame update
     void Start()
     {
-        
+        this.transform.Translate(0, 0, 0);
     }
-
+   
+   
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
-        Vector3 pos = transform.position;
-        pos.x += move;
-        if(pos.x < -3.5f)
-        {
-            move = 0.08f;
-        }
-
-       
-        if (pos.x < -3.5f)
-        {
-            move = 0.08f;
-        }
-
-        transform.position = pos;
+        this.transform.Translate(5, 0, 0/ 50);
+        this.transform.Translate(5, -4, 0);
+        this.transform.Translate(0, -4, 0);
+        this.transform.Translate(0, 0, 0);
     }
+    
 }
